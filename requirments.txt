@@ -3,3 +3,4 @@ transformers==4.19.4
 datasets==2.3.0
 scipy==1.8.1
 sklearn
+bertviz==1.4.0
